@@ -1,17 +1,17 @@
 [
 {
-"id": "1",
+"id": 1,
 "content": "hey",
-"status": "3"
+"status": false
 },
 {
-"id": "2",
+"id": 2,
 "content": "lol",
-"status": "3"
+"status": true
 },
 {
-"id": "3",
+"id": 3,
 "content": "hey",
-"status": "3"
+"status": false
 }
 ]
