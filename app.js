@@ -5,12 +5,7 @@ class DBinformation
     public $connect;
 
     function __construct()
-            if ($connect = mysqli_connect($serverName, $dBUsername, $dBPassword, $dBName)) {
-            $this->connect = $connect;
-            return $this->connect;  //Kontakter database
-        } else {
-            die("Faied to connect: " . mysqli_connect_error());  //Giver brugeren beseked, hvis der opstår problem med database
-        }
+    {
         $serverName = "localhost"; //Udfyld variabler her
         $dBUsername = "root";
         $dBPassword = "";
