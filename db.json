@@ -1,17 +1,20 @@
 [
 {
+"userId": 1,
 "id": 1,
-"content": "hey",
-"status": false
+"title": "delectus aut autem",
+"completed": false
 },
 {
+"userId": 1,
 "id": 2,
-"content": "lol",
-"status": true
+"title": "delectus aut autem",
+"completed": false
 },
 {
+"userId": 1,
 "id": 3,
-"content": "hey",
-"status": false
+"title": "delectus aut autem",
+"completed": false
 }
 ]
